@@ -1,1 +1,1 @@
-# IOT_LAB
+# iot-lab
